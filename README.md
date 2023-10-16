@@ -1,6 +1,7 @@
 # AI photo community site
 
 ### Fullstack site created to share images created by artificial intelligence and you can download if you want. The images are stored in mongoDB. //// Site  fullstack criado para compartilhar imagens criadas por inteligencia artificial e baixa-las se quiser, elas ficam armazenadas no mongoDB.
+#### Build: OpenAI, MongoDb, Vite, React
 
 https://github.com/victorbrunacio/ai_image_site/assets/93022107/5f990ba1-7fbc-4632-9199-e54c14d12014
 
