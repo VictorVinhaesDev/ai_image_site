@@ -12,3 +12,7 @@ https://github.com/victorbrunacio/ai_image_site/assets/93022107/5f990ba1-7fbc-46
 ## Storage
 
 ![mongodb](https://github.com/victorbrunacio/ai_image_site/assets/93022107/f532574b-5e1c-4694-9406-04fdc501f1a1)
+
+
+## Photo
+![imageAi](https://github.com/victorbrunacio/ai_image_site/assets/93022107/2ec7d93f-af8f-4f8c-b77e-62926c9a9444)
